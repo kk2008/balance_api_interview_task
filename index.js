@@ -10,3 +10,4 @@ const port = 3000;
 http.listen(port, () => {
     console.log(`Listening on port ${port}`);
 });
+module.exports = http;
