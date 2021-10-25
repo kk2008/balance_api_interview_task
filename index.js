@@ -10,7 +10,3 @@ const port = 3000;
 http.listen(port, () => {
     console.log(`Listening on port ${port}`);
 });
-module.exports = http;
-
-// const io = require('./socket.js');
-// app.set('socketio', io);
