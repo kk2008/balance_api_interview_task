@@ -48,11 +48,11 @@ ANSWER
 
 2. Which took the most time? What did you find most difficult?
 
-ANSWER
+Mocha & Chai as this is my very first time to deal with this testing method
 
 3. If we wanted the balance to update on the frontend more often (10 times per second), how would you improve the current system to handle this?
 
-ANSWER
+I will suggest to use socket.io to push the latest update to client's browser
 
 4. How did you find the test overall? If you have any suggestions on how we can improve the test, we'd love to hear them!
 
